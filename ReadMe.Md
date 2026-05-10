@@ -197,7 +197,7 @@ Planned enhancements include:
 
 ## Data Model / Star Schema
 
-1[Data Model](docs/11. Star schema.png)
+![Data Model](docs/11. Star schema.png)
 
 ---
 
