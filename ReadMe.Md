@@ -193,7 +193,7 @@ Planned enhancements include:
 
 ## Executive Dashboard
 
-docs/12.Dashboard.png 
+![Executive Dashboard]( Dashboard]
 
 ## Data Model / Star Schema
 
